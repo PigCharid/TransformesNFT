@@ -3,13 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@rainbow-me/rainbowkit": "^0.12.7",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "ahooks": "^3.7.6",
+    "ethers": "^5.7.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-hooks-global-state": "^2.1.0",
+    "react-icons": "^4.8.0",
+    "react-parallax-tilt": "^1.7.126",
+    "react-router-dom": "^6.10.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "swiper": "^9.2.0",
+    "wagmi": "^0.12.10",
+    "web-vitals": "^2.1.4",
+    "web3": "^1.9.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
   }
 }
